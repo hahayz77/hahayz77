@@ -7,7 +7,7 @@
 
 <br/>
 
-🇧🇷<p> O meu primeiro contato com programação foi no curso de Mecatrônica na Escola Técnica onde eu me identifiquei com a programação e em resolver problemas com ela. NO final do curso eu fiz um projeto que foi selecionado para a <strong>Campus Future Brasil 2016</strong> em São Paulo onde apresentei meu projeto sobre Visão Computacional com TopCodes e uma garra robótica. Desde esse dia eu continuei estudando para melhorar meu nível de inglês e de desenvolvimento para trabalhar fora num futuro próximo.</p>
+🇧🇷<p> O meu primeiro contato com programação foi no curso de Mecatrônica na Escola Técnica onde eu me identifiquei com a programação e em resolver problemas com ela. No final do curso eu fiz um projeto que foi selecionado para a <strong>Campus Future Brasil 2016</strong> em São Paulo onde apresentei meu projeto sobre Visão Computacional com TopCodes e uma garra robótica. Desde esse dia eu continuei estudando para melhorar meu nível de inglês e de desenvolvimento para trabalhar fora num futuro próximo.</p>
 
 <hr/>
 
