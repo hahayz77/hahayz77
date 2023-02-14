@@ -3,7 +3,11 @@
 <h1 align="center"> <img src="https://img.icons8.com/color/68/null/tanjiro-kamado.png"/> Hi! I'm Danilo Fialho...</h1>
 </div>
  
-My first contact with programing was on Mechatronic Technician school where i got identified for developer applications and solve problems with programing. At the end of this course i made a project that was selected to the Campus Future Brazil on São Paulo were i present my project about OpenCV with TopCodes and a mechanical arm. Since that day, i keep doing very independet web projects to improove my knowledge about programming to achive my goals. Now, i'm searching for a remote job to learn more about programming and develop in order to increse my english level and work abroad to imigrate on the near future.
+🇺🇸<p> My first contact with programing was on Mechatronic Technician school where i got identified for developer applications and solve problems with programing. At the end of this course i made a project that was selected to the Campus Future Brazil on São Paulo were i present my project about OpenCV with TopCodes and a robotic arm. Since that day i keep doing very independet web projects to improove my knowledge about programming to achive my goals. Now, i'm searching for a remote job to learn more about programming and develop in order to increse my english level and work abroad to imigrate on the near future.</p>
+
+<br/>
+
+🇧🇷<p> O meu primeiro contato com programação foi no curso de Mecatrônica na Escola Técnica onde eu me identifiquei com a programação e em resolver problemas com ela. NO final do curso eu fiz um projeto que foi selecionado para a <strong>Campus Future Brasil 2016</strong> em São Paulo onde apresentei meu projeto sobre Visão Computacional com TopCodes e uma garra robótica. Desde esse dia eu continuei estudando para melhorar meu nível de inglês e de desenvolvimento para trabalhar fora num futuro próximo.</p>
 
 <hr/>
 
