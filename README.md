@@ -1,32 +1,33 @@
-### Hi there 👋
+<div align='center'>
+<img src="https://img.icons8.com/clouds/200/null/shrug-emoticon.png"/>
+<h1 align="center"> Hi, im Danilo Fialho!</h1>
+</div>
+ 
+My first contact with programing was on Mechatronic Technician school where i got identified for developer applications and solve problems with programing. At the end of this course i made a project that was selected to the Campus Future Brazil on São Paulo were i present my project about OpenCV with TopCodes and a mechanical arm. Since that day, i keep doing very independet web projects to improove my knowledge about programming to achive my goals. Now, i'm searching for a remote job to learn more about programming and develop in order to increse my english level and work abroad to imigrate on the near future.
 
-[![hahayz77](https://github-readme-stats.vercel.app/api/top-langs/?username=hahayz77&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<hr/>
 
-<!-- [![card](https://github-readme-stats.vercel.app/api?username=hahayz77&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<div align='center'>
+<img src="https://img.icons8.com/clouds/200/null/in-love.png"/>
+<h1 align='center'>Technologies I Love</h1>
+</div>
 
-## 💜 Hi, my name is <strong>Danilo Fialho "HaHay"!</strong>
+<div align='center'>
+ <img src="https://img.icons8.com/color/60/null/javascript--v1.png"/> <img src="https://img.icons8.com/fluency/60/null/typescript--v1.png"/> <img src="https://img.icons8.com/color/60/null/c-programming.png"/> <img src="https://img.icons8.com/color/60/null/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/color/60/null/spring-logo.png"/> <img src="https://img.icons8.com/fluency/60/null/node-js.png"/> <img src="https://img.icons8.com/officel/60/null/react.png"/> <img src="https://img.icons8.com/color/60/null/nextjs.png"/> <img src="https://img.icons8.com/doodle/60/null/svetle.png"/> <img src="https://bestofjs.org/logos/sapper.dark.svg" width="60px" height="60px"/> <img src="https://img.icons8.com/color/60/null/mongodb.png"/> <img src="https://img.icons8.com/color/60/null/postgreesql.png"/> <img src="https://img.icons8.com/color/60/null/css3.png"/> <img src="https://img.icons8.com/color/60/null/sass.png"/> <img src="https://img.icons8.com/color/60/null/tailwindcss.png"/> <img src="https://img.icons8.com/color/60/null/bootstrap.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/null/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/60/null/git.png"/> <img src="https://img.icons8.com/color/60/null/opencv.png"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="60px" height="60px"/> <img src="https://img.icons8.com/color/60/null/arduino.png"/>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+</div> 
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+<hr/>
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+<h1 align='center'> 🔥 Featured Projects </h1>
 
-----
 
-## 🚀 Minhas Skills
+<hr/>
 
-<code><img height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/></code>
-<code><img height="62" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="62" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-<code><img height="62" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="62" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="62" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="62" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+[![hahayz77](https://github-readme-stats.vercel.app/api/top-langs/?username=hahayz77&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![card](https://github-readme-stats.vercel.app/api?username=hahayz77&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
 ---
 
