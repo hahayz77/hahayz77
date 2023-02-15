@@ -55,7 +55,7 @@
 <h2> 📌 TO DO's</h2>
 <a href='https://github.com/hahayz77/todosListReact' target='_blank'>Repository </a> | <a href='https://hahayz77.github.io/todosListReact/'> Site</a>
 <br/>
-<code>A beautiful simple to do list with that marks my first ReactJS project.</code>
+<code>A beautiful simple to do list, my first ReactJS project.</code>
 <br/>
 
 
