@@ -61,6 +61,6 @@
 
 <hr/>
 
-[![hahayz77](https://github-readme-stats.vercel.app/api/top-langs/?username=hahayz77&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![hahayz77](https://github-readme-stats.vercel.app/api/top-langs/?username=hahayz77&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![card](https://github-readme-stats.vercel.app/api?username=hahayz77&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
